@@ -1,9 +1,8 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Firstcomp from './component/Firstcomp';
 import Input from './component/Input';
 
-import Counter from './component/counter/count';
 
 function App() {
   return (
