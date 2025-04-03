@@ -2,7 +2,7 @@
 import './App.css';
 import Firstcomp from './component/Firstcomp';
 import Input from './component/Input';
-
+import Count from './component/counter/count';
 
 function App() {
   return (
@@ -21,13 +21,13 @@ function App() {
           Learn React
         </a>
       </header> */}
-     <Firstcomp>
+     {/* <Firstcomp>
       <Input placeholder="Enter First Name" />
       <Input placeholder="Enter Last Name" />
     </Firstcomp>
-   
-     
-
+    */}
+     <Count />
+     <Count />
     </div>
   );
 }
