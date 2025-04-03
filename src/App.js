@@ -1,7 +1,7 @@
 
 import './App.css';
-import Firstcomp from './component/Firstcomp';
-import Input from './component/Input';
+// import Firstcomp from './component/Firstcomp';
+// import Input from './component/Input';
 import Count from './component/counter/count';
 
 function App() {
